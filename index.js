@@ -13,6 +13,11 @@ class Hero {
     getStat(){
         return  this.stat;
     }
+    display(){
+        console.log(`Hero ${this.name},${this.ability}, ${this.stat}`);
+        
+    }
 }
 
 const Sven  =  new Hero("Sven","stun", {str:24,agi:20,int:14});
+Sven.display();
