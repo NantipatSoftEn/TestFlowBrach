@@ -41,3 +41,4 @@ Qop.display();
 Sven.setStat({str:99,agi:99,int:99});
 Sven.lookStat();
 
+// @todo 11:28min  ลองทดสอบ pdd
