@@ -41,4 +41,4 @@ Qop.display();
 Sven.setStat({str:99,agi:99,int:99});
 Sven.lookStat();
 
-// @todo #3:28min  ลองทดสอบ pdd อีกที่
+// @todo #2:28min   ชื่อ class ไม่สื่อ
