@@ -20,4 +20,6 @@ class Hero {
 }
 
 const Sven  =  new Hero("Sven","stun", {str:24,agi:20,int:14});
+const Qop  =  new Hero("Qop","blink", {str:15,agi:15,int:22});
 Sven.display();
+Qop.display();
