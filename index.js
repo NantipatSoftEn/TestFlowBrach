@@ -39,5 +39,5 @@ const Qop  =  new Hero("Qop","blink", {str:15,agi:15,int:22});
 Sven.display();
 Qop.display();
 Sven.setStat({str:99,agi:99,int:99});
-Sven.lookStat();
+Sven.lfgfgfgookStat();
 
